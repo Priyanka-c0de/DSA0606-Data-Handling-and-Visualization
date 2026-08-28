@@ -102,9 +102,9 @@ CO_Assessments/
 
 **Course Code**: DSA0606  
 **Course Name**: Data Handling and Visualization  
-**Institution**: [Your Institution]  
+**Institution**: SIMATS 
 **Semester**: [Semester]  
-**Academic Year**: 2026
+**Academic Year**: 2025-2029
 
 ---
 
